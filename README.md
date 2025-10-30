@@ -249,7 +249,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="1263" height="881" alt="image" src="https://github.com/user-attachments/assets/062bdfab-1855-44a9-a309-5fb8a61bcbc0" />
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-[pmc exp7 crd.pdf](https://github.com/user-attachments/files/23224905/pmc.exp7.crd.pdf)
+<img width="1219" height="847" alt="image" src="https://github.com/user-attachments/assets/dc13f667-941b-4a95-a1ce-a6c53109e85f" />
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION:
